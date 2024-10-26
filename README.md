@@ -68,6 +68,6 @@ Switches:
 
 - Name:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;BSP tool
 - Programmer:&emsp;&emsp;&emsp;&emsp;id Software & Mr Elusive (MrElusive@demigod.demon.nl)
-- Last update:&emsp;&emsp;&emsp;&emsp;&emsp;1997-12-04
+- Last update:&emsp;&emsp;&emsp;&emsp;1997-12-04
 - Tab Size:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3
-- Notes:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Microsoft Visual C++ optimizations: "global optimization" or "full optimization" results in micro brushes??
+- Notes:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Microsoft Visual C++ optimizations: "global optimization" or "full optimization" results in micro brushes??
