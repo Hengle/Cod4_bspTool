@@ -51,9 +51,9 @@ Switches:
 - `reach              <filter.bsp>`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;compute reachability & clusters
 - `cluster            <filter.aas>`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;compute clusters
 - `aasopt             <filter.aas>`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;optimize aas file
-- `output             <output path>`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;set output path
-- `threads            <X>`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;set number of threads to X
-- `cfg                <filename>`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;use this cfg file
+- `output             <output path>`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;set output path
+- `threads            <X>`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;set number of threads to X
+- `cfg                <filename>`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;use this cfg file
 - `optimize`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;enable optimization
 - `noverbose`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;disable verbose output
 - `breadthfirst`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;breadth first bsp building
