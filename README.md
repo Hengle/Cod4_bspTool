@@ -63,3 +63,11 @@ Switches:
 - `nocsg                                           `disables brush chopping
 - `forcesidesvisible                               `force all sides to be visible
 - `grapplereach                                    `calculate grapple reachabilities
+
+### Tool Metadata 
+
+- `Name:			`BSP tool
+- `Programmer:		`id Software & Mr Elusive (MrElusive@demigod.demon.nl)
+- `Last update:	    `1997-12-04
+- `Tab Size:		`3
+- `Notes:			`Microsoft Visual C++ optimizations: "global optimization" or "full optimization" results in micro brushes??
