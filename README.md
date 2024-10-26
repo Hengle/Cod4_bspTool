@@ -42,8 +42,8 @@ If compilation was successful the binary will be placed in the /bin/ folder.
 
 Usage:
 `bspc [-<switch> [-<switch> ...]]`
-**Example 1**: `bspc -bsp2aas d:\\quake3\\baseq3\\maps\\mymap?.bsp`  
-**Example 2**: `bspc -bsp2aas d:\\quake3\\baseq3\\pak0.pk3\\maps/q3dm*.bsp`
+`Example 1: bspc -bsp2aas d:\\quake3\\baseq3\\maps\\mymap?.bsp`  
+`Example 2: bspc -bsp2aas d:\\quake3\\baseq3\\pak0.pk3\\maps/q3dm*.bsp`
 
 Switches: 
 - `bsp2map            <[pakfilter/]filter.bsp>`  convert BSP or FF to MAP
