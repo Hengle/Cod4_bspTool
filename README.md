@@ -46,20 +46,20 @@ Usage:
 - **Example 2**: `bspc -bsp2aas d:\\quake3\\baseq3\\pak0.pk3\\maps/q3dm*.bsp`
 
 Switches: 
-- `bsp2map            <[pakfilter/]filter.bsp>` `  `convert BSP or FF to MAP
-- `bsp2aas            <[pakfilter/]filter.bsp>` `  `convert BSP to AAS
-- `reach              <filter.bsp>` `              `compute reachability & clusters
-- `cluster            <filter.aas>` `              `compute clusters
-- `aasopt             <filter.aas>` `              `optimize aas file
-- `output             <output path>` `             `set output path
-- `threads            <X>` `                       `set number of threads to X
-- `cfg                <filename>` `                `use this cfg file
-- `optimize` `                                     `enable optimization
-- `noverbose` `                                    `disable verbose output
-- `breadthfirst` `                                 `breadth first bsp building
-- `nobrushmerge` `                                 `don't merge brushes
-- `noliquids` `                                    `don't write liquids to map
-- `freetree` `                                     `free the bsp tree
-- `nocsg` `                                        `disables brush chopping
-- `forcesidesvisible` `                            `force all sides to be visible
-- `grapplereach` `                                 `calculate grapple reachabilities
+- `bsp2map            <[pakfilter/]filter.bsp>     `convert BSP or FF to MAP
+- `bsp2aas            <[pakfilter/]filter.bsp>     `convert BSP to AAS
+- `reach              <filter.bsp>                 `compute reachability & clusters
+- `cluster            <filter.aas>                 `compute clusters
+- `aasopt             <filter.aas>                 `optimize aas file
+- `output             <output path>                `set output path
+- `threads            <X>                          `set number of threads to X
+- `cfg                <filename>                   `use this cfg file
+- `optimize                                        `enable optimization
+- `noverbose                                       `disable verbose output
+- `breadthfirst                                    `breadth first bsp building
+- `nobrushmerge                                    `don't merge brushes
+- `noliquids                                       `don't write liquids to map
+- `freetree                                        `free the bsp tree
+- `nocsg                                           `disables brush chopping
+- `forcesidesvisible                               `force all sides to be visible
+- `grapplereach                                    `calculate grapple reachabilities
