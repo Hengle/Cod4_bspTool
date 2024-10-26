@@ -49,8 +49,8 @@ Switches:
 - `bsp2map            <[pakfilter/]filter.bsp>`&emsp;&emsp;&emsp;&emsp;convert BSP or FF to MAP
 - `bsp2aas            <[pakfilter/]filter.bsp>`&emsp;&emsp;&emsp;&emsp;convert BSP to AAS
 - `reach              <filter.bsp>`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;compute reachability & clusters
-- `cluster            <filter.aas>`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;compute clusters
-- `aasopt             <filter.aas>`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;optimize aas file
+- `cluster            <filter.aas>`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;compute clusters
+- `aasopt             <filter.aas>`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;optimize aas file
 - `output             <output path>`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;set output path
 - `threads            <X>`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;set number of threads to X
 - `cfg                <filename>`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;use this cfg file
