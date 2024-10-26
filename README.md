@@ -46,20 +46,20 @@ Usage:
 - **Example 2**: `bspc -bsp2aas d:\\quake3\\baseq3\\pak0.pk3\\maps/q3dm*.bsp`
 
 Switches: 
-- `bsp2map            <[pakfilter/]filter.bsp>`&emsp;&emsp;&emsp;&emsp;convert BSP or FF to MAP
-- `bsp2aas            <[pakfilter/]filter.bsp>`&emsp;&emsp;&emsp;&emsp;convert BSP to AAS
-- `reach              <filter.bsp>`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;compute reachability & clusters
-- `cluster            <filter.aas>`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;compute clusters
-- `aasopt             <filter.aas>`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;optimize aas file
-- `output             <output path>`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;set output path
-- `threads            <X>`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;set number of threads to X
-- `cfg                <filename>`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;use this cfg file
-- `optimize`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;enable optimization
-- `noverbose`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;disable verbose output
-- `breadthfirst`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;breadth first bsp building
-- `nobrushmerge`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;don't merge brushes
-- `noliquids`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;don't write liquids to map
-- `freetree`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;free the bsp tree
-- `nocsg`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;disables brush chopping
-- `forcesidesvisible`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;force all sides to be visible
-- `grapplereach`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;calculate grapple reachabilities
+- `bsp2map            <[pakfilter/]filter.bsp>` `  `convert BSP or FF to MAP
+- `bsp2aas            <[pakfilter/]filter.bsp>` `  `convert BSP to AAS
+- `reach              <filter.bsp>` `              `compute reachability & clusters
+- `cluster            <filter.aas>` `              `compute clusters
+- `aasopt             <filter.aas>` `              `optimize aas file
+- `output             <output path>` `             `set output path
+- `threads            <X>` `                       `set number of threads to X
+- `cfg                <filename>` `                `use this cfg file
+- `optimize` `                                     `enable optimization
+- `noverbose` `                                    `disable verbose output
+- `breadthfirst` `                                 `breadth first bsp building
+- `nobrushmerge` `                                 `don't merge brushes
+- `noliquids` `                                    `don't write liquids to map
+- `freetree` `                                     `free the bsp tree
+- `nocsg` `                                        `disables brush chopping
+- `forcesidesvisible` `                            `force all sides to be visible
+- `grapplereach` `                                 `calculate grapple reachabilities
