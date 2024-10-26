@@ -54,12 +54,12 @@ Switches:
 - `output             <output path>`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;set output path
 - `threads            <X>`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;set number of threads to X
 - `cfg                <filename>`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;use this cfg file
-- `optimize`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;enable optimization
-- `noverbose`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;disable verbose output
-- `breadthfirst`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;breadth first bsp building
-- `nobrushmerge`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;don't merge brushes
-- `noliquids`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;don't write liquids to map
-- `freetree`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;free the bsp tree
-- `nocsg`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;disables brush chopping
-- `forcesidesvisible`&emsp;&emsp;&emsp;&emsp;force all sides to be visible
-- `grapplereach`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;calculate grapple reachabilities
+- `optimize`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;enable optimization
+- `noverbose`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;disable verbose output
+- `breadthfirst`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;breadth first bsp building
+- `nobrushmerge`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;don't merge brushes
+- `noliquids`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;don't write liquids to map
+- `freetree`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;free the bsp tree
+- `nocsg`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;disables brush chopping
+- `forcesidesvisible`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;force all sides to be visible
+- `grapplereach`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;calculate grapple reachabilities
